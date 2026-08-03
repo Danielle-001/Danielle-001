@@ -4,10 +4,10 @@
   <a href="https://github.com/Danielle-001">Perfil</a><br>
 
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danielle-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+       src="https://github-readme-stats-6173748gc-dani-d42b.vercel.app/api?username=Danielle-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danielle-001&layout=compact&langs_count=6&theme=tokyonight"/>
+       src="https://github-readme-stats-6173748gc-dani-d42b.vercel.app/api/top-langs/?username=Danielle-001&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
